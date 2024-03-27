@@ -32,7 +32,7 @@ final List<NewsModel> newsModel = [
       shortDescription:
           "Holi 2024: Celebrate the festival in style with these fashion tips"),
   NewsModel(
-      name: 'Cat',
+      name: 'News 1',
       imageUrl: 'assets/news/himanta.jpg', // Replace with actual image URL
       description:
           "Assam Chief Minister Himanta Biswa Sarma on Saturday laid down conditions for the recognition of Bengali-speaking Bangladeshi Muslims, known as ' Miya' , as indigenous people in the state."
@@ -52,7 +52,7 @@ final List<NewsModel> newsModel = [
       shortDescription:
           "No polygamy, child marriage: Himanta Sarna's 'conditions' for Bangladeshi Muslims. "),
   NewsModel(
-      name: 'Sparrow',
+      name: 'News 2',
       imageUrl: 'assets/news/news3.jpg', // Replace with actual image URL
       description:
           "BUDAUN: The brutal murder of two minor brothers here has become the talking point in the constituency ahead of the Lok Sabha polls, with the Samajwadi Party targeting the BJP over the law and order situation while the saffron party asserting that 'rapid police action' resulted in the death of the main accused."
@@ -79,7 +79,7 @@ final List<NewsModel> newsModel = [
       shortDescription:
           "Budaun double murder a compaign hot topic for BJP and SP"),
   NewsModel(
-      name: 'Pigeon',
+      name: 'News 3',
       imageUrl: 'assets/news/news4.jpg', // Replace with actual image URL
       description:
           "China has introduced guidelines to phase out US microprocessors from Intel and AMD from government personal computers and servers, the Financial Times reported on Sunday."
